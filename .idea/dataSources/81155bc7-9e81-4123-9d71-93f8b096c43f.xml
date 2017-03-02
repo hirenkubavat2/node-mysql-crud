@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="my_node-1@localhost">
+  <database-model serializer="dbm" rdbms="MYSQL" format-version="4.0">
+    <root id="1"/>
+    <schema id="2" parent="1" name="my_node-1">
+      <Current>1</Current>
+      <Visible>1</Visible>
+    </schema>
+    <schema id="3" parent="1" name="A3"/>
+    <schema id="4" parent="1" name="adc2015"/>
+    <schema id="5" parent="1" name="AHA_Power"/>
+    <schema id="6" parent="1" name="angularcode"/>
+    <schema id="7" parent="1" name="angular_test"/>
+    <schema id="8" parent="1" name="ask"/>
+    <schema id="9" parent="1" name="Assign3"/>
+    <schema id="10" parent="1" name="Assign4"/>
+    <schema id="11" parent="1" name="Baker"/>
+    <schema id="12" parent="1" name="blogmaster"/>
+    <schema id="13" parent="1" name="cake"/>
+    <schema id="14" parent="1" name="cake3"/>
+    <schema id="15" parent="1" name="cake_bookmarks"/>
+    <schema id="16" parent="1" name="choovie_landing"/>
+    <schema id="17" parent="1" name="choovie_new"/>
+    <schema id="18" parent="1" name="ci_defaultdb"/>
+    <schema id="19" parent="1" name="clickcon_lean_ewallet"/>
+    <schema id="20" parent="1" name="cr"/>
+    <schema id="21" parent="1" name="democake"/>
+    <schema id="22" parent="1" name="drup"/>
+    <schema id="23" parent="1" name="Drupal"/>
+    <schema id="24" parent="1" name="drupall"/>
+    <schema id="25" parent="1" name="frameme"/>
+    <schema id="26" parent="1" name="frameme_demo"/>
+    <schema id="27" parent="1" name="frameme_live"/>
+    <schema id="28" parent="1" name="homestead"/>
+    <schema id="29" parent="1" name="i3162325_wp1"/>
+    <schema id="30" parent="1" name="information_schema"/>
+    <schema id="31" parent="1" name="Joku"/>
+    <schema id="32" parent="1" name="livemyfarah"/>
+    <schema id="33" parent="1" name="lsmarty"/>
+    <schema id="34" parent="1" name="mabotrue"/>
+    <schema id="35" parent="1" name="Mage2"/>
+    <schema id="36" parent="1" name="magento"/>
+    <schema id="37" parent="1" name="magnet"/>
+    <schema id="38" parent="1" name="mydb"/>
+    <schema id="39" parent="1" name="myDB"/>
+    <schema id="40" parent="1" name="mydemo"/>
+    <schema id="41" parent="1" name="myfarahc_arabic"/>
+    <schema id="42" parent="1" name="myfarahlive"/>
+    <schema id="43" parent="1" name="myfarah_arabic"/>
+    <schema id="44" parent="1" name="myfarah_livedb"/>
+    <schema id="45" parent="1" name="myfarah_stg"/>
+    <schema id="46" parent="1" name="mymagentotest"/>
+    <schema id="47" parent="1" name="myprojects"/>
+    <schema id="48" parent="1" name="mysql"/>
+    <schema id="49" parent="1" name="my_app"/>
+    <schema id="50" parent="1" name="my_symphony"/>
+    <schema id="51" parent="1" name="nautilus_db2"/>
+    <schema id="52" parent="1" name="nodetest"/>
+    <schema id="53" parent="1" name="node_mysql"/>
+    <schema id="54" parent="1" name="pasi"/>
+    <schema id="55" parent="1" name="payo"/>
+    <schema id="56" parent="1" name="performance_schema"/>
+    <schema id="57" parent="1" name="phpmyadmin"/>
+    <schema id="58" parent="1" name="sarportal"/>
+    <schema id="59" parent="1" name="scoutadm_admin"/>
+    <schema id="60" parent="1" name="Shop"/>
+    <schema id="61" parent="1" name="Shopinkart"/>
+    <schema id="62" parent="1" name="shopziwi_shop"/>
+    <schema id="63" parent="1" name="socialmedia"/>
+    <schema id="64" parent="1" name="speech_reco"/>
+    <schema id="65" parent="1" name="symfony"/>
+    <schema id="66" parent="1" name="taasurve_admin"/>
+    <schema id="67" parent="1" name="task"/>
+    <schema id="68" parent="1" name="test"/>
+    <schema id="69" parent="1" name="test1"/>
+    <schema id="70" parent="1" name="testing"/>
+    <schema id="71" parent="1" name="test_kendo_cakephp3"/>
+    <schema id="72" parent="1" name="trainingapp"/>
+    <schema id="73" parent="1" name="users"/>
+    <schema id="74" parent="1" name="vfcactiu_vf"/>
+    <schema id="75" parent="1" name="visitor"/>
+    <schema id="76" parent="1" name="Visitorapp"/>
+    <schema id="77" parent="1" name="visitorappnew"/>
+    <schema id="78" parent="1" name="visitorappnew2"/>
+    <schema id="79" parent="1" name="vital"/>
+    <schema id="80" parent="1" name="wchat"/>
+    <schema id="81" parent="1" name="webwerks"/>
+    <schema id="82" parent="1" name="wp"/>
+    <schema id="83" parent="1" name="wp-crawler"/>
+    <schema id="84" parent="1" name="wp_1"/>
+    <schema id="85" parent="1" name="wp_2"/>
+    <schema id="86" parent="1" name="wp_angular"/>
+    <schema id="87" parent="1" name="wp_new"/>
+  </database-model>
+</dataSource>
