@@ -1,0 +1,45 @@
+<%- include layouts/header.ejs %>
+<div class="page-container">
+    <div class="row">
+        <form name="add-user" method="post" action="/register/add">
+            <div class="form-group">
+                <label for="fname">First name:</label>
+                <input type="text" class="form-control" id="fname" name="fname">
+            </div>
+            <div class="form-group">
+                <label for="lname">Last name:</label>
+                <input type="text" class="form-control" id="lname" name="lname">
+            </div>
+            <div class="form-group">
+                <label for="bdate">Birth Date:</label>
+                <input type="text" class="form-control" id="bdate" name="bdate">
+            </div>
+            <div class="form-group">
+                <label for="gender">Gender:</label>
+                Male: <input type="radio" class="form-control-radio" id="male" value="1" name="gender"/>
+                Female: <input type="radio" class="form-control-radio" id="female" value="0" name="gender"/>
+            </div>
+            <div class="form-group">
+                <label for="contact_no">Contact No:</label>
+                <input type="text" class="form-control" id="contact_no" name="contact_no">
+            </div>
+            <div class="form-group">
+                <label for="email">Email address:</label>
+                <input type="text" class="form-control" id="email" name="email">
+            </div>
+            <div class="form-group">
+                <label for="password">Password:</label>
+                <input type="password" class="form-control" id="password" name="password">
+            </div>
+            <div class="form-group">
+                <label for="cpassword">Confirm Password:</label>
+                <input type="password" class="form-control" id="cpassword" name="cpassword">
+            </div>
+            <div class="form-group">
+                <button type="submit" class="btn btn-default">Submit</button>
+                <button type="button" class="btn btn-default">Cancel</button>
+            </div>
+        </form>
+    </div>
+</div>
+<%- include layouts/footer.ejs %>
